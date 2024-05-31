@@ -1,0 +1,23 @@
+
+export default interface UserDetail {
+  usr_no: string,
+  pgm_grp: string,
+  cus_no: string,
+  id: string,
+  pwd: string,
+  user_nm: string,
+  user_gbn: string,
+  admin_gbn: string,
+  on_gbn: string,
+  rgb: number,
+  site: string,
+  ip: string,
+  b2b: string,
+  b2b_cus: string,
+  app: string,
+  pdf_exe: string,
+  gw_id: string,
+  gw_emp_no: string,
+  mail_id: string,
+  mail_pwd: string,
+}
